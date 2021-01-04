@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation at the 2019 Annual Meeting of the Korean Cognitive Science Society
+title: Presentation at the 2019 Annual Meeting of the Korean Society for Cognitive Science
 tags: [poster, presentation]
 ---
 
