@@ -1,6 +1,36 @@
 [
   
   {
+    "title"    : "Workshop for Motivational Interviewing",
+    "category" : "",
+    "tags"     : " motivational interviewing, workshop, clinical psychology, counseling",
+    "url"      : "/2021/02/06/Workshop-for-Motivational-Interviewing.html",
+    "date"     : "February 6, 2021",
+    "excerpt"  : "I took the workshop for Motivational Interviewing by Prof. Sung-Man Shin. \nThe lecture addressed ‘motivation’ based on the self-determination theory by Richard Ryan &amp;amp; Edward Deci. \nIt was interesting that the theory defines an intrinsic motiva...",
+  "content"  : "I took the workshop for Motivational Interviewing by Prof. Sung-Man Shin. \nThe lecture addressed ‘motivation’ based on the self-determination theory by Richard Ryan &amp;amp; Edward Deci. \nIt was interesting that the theory defines an intrinsic motivation as a combination of autonomy, belonging, competence, and a sense of goal. \nAfter learning these theoretical backgrounds, we could practice motivation interviewing in the practice session.\nI tried the role of a counselor, and I practiced the OARS techniques (Open questions, Affirming, Reflection, and Summarizing). \nI look forward to applying what I’ve learned in this workshop at the 1:1 counseling session that I’m going to do in the On-campus counseling center :)\n"
+} ,
+  
+  {
+    "title"    : "Data Science Bootcamp (Math for Data Science)",
+    "category" : "",
+    "tags"     : " data science, math, workshop, linear algebra",
+    "url"      : "/2021/01/11/Data-Science-Bootcamp-(Math-for-Data-Science).html",
+    "date"     : "January 11, 2021",
+    "excerpt"  : "From January 04 to January 11, I’ve taken the “Math for Data Science” course of the Data Science Bootcamp held by SNU Graduate School of Data Science.   \nI could learn more about Linear Algebra, and I believe this would help me to better understan...",
+  "content"  : "From January 04 to January 11, I’ve taken the “Math for Data Science” course of the Data Science Bootcamp held by SNU Graduate School of Data Science.   \nI could learn more about Linear Algebra, and I believe this would help me to better understand &amp;amp; conduct machine learning, deep learning, and other analyses!   \nThanks to Prof. Min-hwan Oh for the wonderful lectures :)\n"
+} ,
+  
+  {
+    "title"    : "Working at the on-campus counseling center",
+    "category" : "",
+    "tags"     : " clinical psychology, counseling, practice consultant, clinical experience",
+    "url"      : "/2021/01/02/Working-at-on-campus-counseling-center.html",
+    "date"     : "January 2, 2021",
+    "excerpt"  : "Starting this January, I’m working at the on-campus counseling center at Seoul National University, “Center for Campus Life &amp;amp; Culture”. \nAs a graduate student majoring in clinical psychology, this would be a great opportunity to experience rea...",
+  "content"  : "Starting this January, I’m working at the on-campus counseling center at Seoul National University, “Center for Campus Life &amp;amp; Culture”. \nAs a graduate student majoring in clinical psychology, this would be a great opportunity to experience real clinical settings, and apply what I learned in lectures so far. \nFrom January to June, I’ll be doing the intake interview every week :) \nI’m also going conduct some 1:1 counseling sessions! \n\nAs a practice counselor, I hope I could learn a lot and be a helpful counselor to my future clients!\n\n"
+} ,
+  
+  {
     "title"    : "E-poster at SOBP 2020",
     "category" : "",
     "tags"     : " conference, poster, presentation, SOBP, two-step task, model-based, model-free, Internet gaming disorder, IGD, Alcohol use disorder, AUD",
@@ -18,6 +48,16 @@
     "date"     : "March 2, 2020",
     "excerpt"  : "I won my first scholarship as a graduate student! \nDue to COVID-19, ceremony wasn’t held this year. \nAll, please stay safe &amp;amp; healthy!\n\n\n \n\n\n",
   "content"  : "I won my first scholarship as a graduate student! \nDue to COVID-19, ceremony wasn’t held this year. \nAll, please stay safe &amp;amp; healthy!\n\n\n \n\n\n"
+} ,
+  
+  {
+    "title"    : "New project with 365mc hospital",
+    "category" : "",
+    "tags"     : " obesity, intervention, prediction, individualized treatment, food addiction, machine learning",
+    "url"      : "/2020/01/10/New-project-with-365mc-hospital.html",
+    "date"     : "January 10, 2020",
+    "excerpt"  : "CCS lab is working with 365mc hospital to apply psychology and machine learning to real-life clinical settings. \nWe are looking forward to collecting a large amount of data, and developing an individualized intervention for weight loss/maintenance...",
+  "content"  : "CCS lab is working with 365mc hospital to apply psychology and machine learning to real-life clinical settings. \nWe are looking forward to collecting a large amount of data, and developing an individualized intervention for weight loss/maintenance! \nCheck out the youtube video for a brief overview of our project :)\n\n"
 } ,
   
   {
@@ -41,7 +81,7 @@
 } ,
   
   {
-    "title"    : "Presentation at the 2019 Annual Meeting of the Korean Cognitive Science Society",
+    "title"    : "Presentation at the 2019 Annual Meeting of the Korean Society for Cognitive Science",
     "category" : "",
     "tags"     : " poster, presentation",
     "url"      : "/2019/05/25/Presentation-at-the-2019-Annual-Meeting-of-the-Korean-Cognitive-Science-Society.html",
@@ -201,6 +241,18 @@
   "date"     : "October 26, 2020",
   "excerpt"  : "I gave a presentation on the paper “Neural basis of video gaming: a systematic review” by Palaus et al. (2017). Addiction is an attractive topic, in the respect of irrational decision making. So I decided to present this paper related to the “gami...",
   "content"  : "I gave a presentation on the paper “Neural basis of video gaming: a systematic review” by Palaus et al. (2017). Addiction is an attractive topic, in the respect of irrational decision making. So I decided to present this paper related to the “gaming disorder”, a topic with an active discussion about whether we should define it as a mental disorder. Together with other two papers discussed in the class, we could think &amp;amp; discuss about the issue of gaming disorder.\n\nDate: 26 October, 2020  \nEvent: Seminar in Psychopathology \nLocation: Seoul, South Korea \nPaper:  Link \nSlides:  Download pdf\n\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "Lab Meeting Presentation on a new research idea",
+  "category" : "",
+  "tags"     : " presentation, food addiction, binge eating, shape and weight concern",
+  "url"      : "/portfolio/ppt-201112-research-proposal",
+  "date"     : "November 12, 2020",
+  "excerpt"  : "I gave a presentation on my new project about Food addiction &amp; Binge eating disorder!\n\nDate: 12 November, 2020  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nSlides: kmario4180@snu.ac.kr\n",
+  "content"  : "I gave a presentation on my new project about Food addiction &amp;amp; Binge eating disorder!\n\nDate: 12 November, 2020  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nSlides: kmario4180@snu.ac.kr\n"
   
 } 
   
