@@ -13,4 +13,4 @@ I gave a presentation on my new project about Food addiction & Binge eating diso
 __Date__: 12 November, 2020  <br/>
 __Event__: CCS lab meeting <br/> 
 __Location__: Seoul, South Korea <br/>
-__Slides__: <kmario4180@snu.ac.kr>
+__Request Slides__: <kmario4180@snu.ac.kr>
