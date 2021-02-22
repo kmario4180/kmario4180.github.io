@@ -251,8 +251,20 @@
   "tags"     : " presentation, food addiction, binge eating, shape and weight concern",
   "url"      : "/portfolio/ppt-201112-research-proposal",
   "date"     : "November 12, 2020",
-  "excerpt"  : "I gave a presentation on my new project about Food addiction &amp; Binge eating disorder!\n\nDate: 12 November, 2020  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nSlides: kmario4180@snu.ac.kr\n",
-  "content"  : "I gave a presentation on my new project about Food addiction &amp;amp; Binge eating disorder!\n\nDate: 12 November, 2020  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nSlides: kmario4180@snu.ac.kr\n"
+  "excerpt"  : "I gave a presentation on my new project about Food addiction &amp; Binge eating disorder!\n\nDate: 12 November, 2020  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nRequest Slides: kmario4180@snu.ac.kr\n",
+  "content"  : "I gave a presentation on my new project about Food addiction &amp;amp; Binge eating disorder!\n\nDate: 12 November, 2020  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nRequest Slides: kmario4180@snu.ac.kr\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "Presentation on Thomas et al (2020) at Clinical AI journal club",
+  "category" : "",
+  "tags"     : " presentation, machine learning, AI, Autism Spectrum Disorder, resting state fMRI, 3D-CNN, ABIDE, journal club",
+  "url"      : "/portfolio/ppt-210222-thomas-et-al-2020",
+  "date"     : "February 22, 2021",
+  "excerpt"  : "I gave a presentation on “Classifying Autism Spectrum Disorder Using the Temporal Statistics of Resting-State Functional MRI Data With 3D Convolutional Neural Networks” by Thomas et al. (2020). The paper tried classifying Autism Spectrum Disorder ...",
+  "content"  : "I gave a presentation on “Classifying Autism Spectrum Disorder Using the Temporal Statistics of Resting-State Functional MRI Data With 3D Convolutional Neural Networks” by Thomas et al. (2020). The paper tried classifying Autism Spectrum Disorder (ASD) from healthy control using resting-state fMRI, with 3D Convolutional Neural Network (3D-CNN). Unlike the conventional way of spatial downscaling of fMRI data using brain atlas, the authors tried to reduce the dimensionality of time-domain using multiple summary measures of connectivity! Even though the highest prediction accuracy achieved from multi-measure ensemble approach was not high enough compared to other studies, it was a new perspective of dealing with fMRI data to me!\n\nDate: 22 February, 2021  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nPaper:  Link \nSlides:  Download pdf\n\n"
   
 } 
   
