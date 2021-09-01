@@ -12,17 +12,17 @@ I'm now starting my Ph.D!!!!
 <br/>
 
 <center>
-<img src="/assets/img/thumbnails/commencement1.jpg" width="600"/>
+<img src="/assets/img/thumbnails/commencement1.jpg" width="300"/>
 </center>
 <br/>
 
 <center>
-<img src="/assets/img/thumbnails/commencement2.jpg" width="600"/>
+<img src="/assets/img/thumbnails/commencement2.jpg" width="300"/>
 </center>
 <br/>
 
 <center>
-<img src="/assets/img/thumbnails/commencement3.jpg" width="600"/>
+<img src="/assets/img/thumbnails/commencement3.jpg" width="300"/>
 </center>
 <br/>
 
