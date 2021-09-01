@@ -1,6 +1,46 @@
 [
   
   {
+    "title"    : "2021-08-20-Commencement",
+    "category" : "",
+    "tags"     : " commencement, graduation, master's degree",
+    "url"      : "/2021/08/20/Commencement.html",
+    "date"     : "August 20, 2021",
+    "excerpt"  : "I received a Master’s degree in Clinical Psychology from Seoul Natinal University :) \nGreat thanks to my family!! \nI’m now starting my Ph.D!!!!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "content"  : "I received a Master’s degree in Clinical Psychology from Seoul Natinal University :) \nGreat thanks to my family!! \nI’m now starting my Ph.D!!!!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+} ,
+  
+  {
+    "title"    : "Got admission to PhD program",
+    "category" : "",
+    "tags"     : " PhD, admission",
+    "url"      : "/2021/06/10/Got-admission-on-PhD-program.html",
+    "date"     : "June 10, 2021",
+    "excerpt"  : "I got admission to Ph.D. program at the Department of Psychology, Seoul National University. \nI’m grateful that I could work/study/conduct research in my lab for 3 more years and continue my research projects :) \nWish and believe that my Ph.D. pro...",
+  "content"  : "I got admission to Ph.D. program at the Department of Psychology, Seoul National University. \nI’m grateful that I could work/study/conduct research in my lab for 3 more years and continue my research projects :) \nWish and believe that my Ph.D. program will be an invaluable opportunity for my personal and academic growth.\n"
+} ,
+  
+  {
+    "title"    : "Just finished the thesis defense on my master&#39;s degree!",
+    "category" : "",
+    "tags"     : " graduation",
+    "url"      : "/2021/06/07/Thesis-approval-on-master's-degree!.md.html",
+    "date"     : "June 7, 2021",
+    "excerpt"  : "Today, I got approval on my master’s degree :)\n",
+  "content"  : "Today, I got approval on my master’s degree :)\n"
+} ,
+  
+  {
+    "title"    : "Qualifying exam for master&#39;s degree",
+    "category" : "",
+    "tags"     : " Qual, graduation, master",
+    "url"      : "/2021/03/28/Qualifying-exam-for-master's-degree.html",
+    "date"     : "March 28, 2021",
+    "excerpt"  : "I just passed the thesis qualification test :) One step completed toward graduation! \nI wrote a short (10 pages) essay on decision-making related to food addiction. \nEnjoyed doing a literature search on my research interest, and finding the litera...",
+  "content"  : "I just passed the thesis qualification test :) One step completed toward graduation! \nI wrote a short (10 pages) essay on decision-making related to food addiction. \nEnjoyed doing a literature search on my research interest, and finding the literature gap &amp;amp; coming with a new research idea!\n"
+} ,
+  
+  {
     "title"    : "Workshop for Motivational Interviewing",
     "category" : "",
     "tags"     : " motivational interviewing, workshop, clinical psychology, counseling",
@@ -8,6 +48,16 @@
     "date"     : "February 6, 2021",
     "excerpt"  : "I took the workshop for Motivational Interviewing by Prof. Sung-Man Shin. \nThe lecture addressed ‘motivation’ based on the self-determination theory by Richard Ryan &amp;amp; Edward Deci. \nIt was interesting that the theory defines an intrinsic motiva...",
   "content"  : "I took the workshop for Motivational Interviewing by Prof. Sung-Man Shin. \nThe lecture addressed ‘motivation’ based on the self-determination theory by Richard Ryan &amp;amp; Edward Deci. \nIt was interesting that the theory defines an intrinsic motivation as a combination of autonomy, belonging, competence, and a sense of goal. \nAfter learning these theoretical backgrounds, we could practice motivation interviewing in the practice session.\nI tried the role of a counselor, and I practiced the OARS techniques (Open questions, Affirming, Reflection, and Summarizing). \nI look forward to applying what I’ve learned in this workshop at the 1:1 counseling session that I’m going to do in the On-campus counseling center :)\n"
+} ,
+  
+  {
+    "title"    : "Workshop for Evidence based trauma treatment",
+    "category" : "",
+    "tags"     : " Evidence-based treatment, PTSD, workshop, clinical psychology, counseling",
+    "url"      : "/2021/01/26/Workshop-for-Evidence-based-trauma-treatment.html",
+    "date"     : "January 26, 2021",
+    "excerpt"  : "I took the workshop for Evidence-based trauma treament held by Dr. Hye Sun Joo in Korea Trauma Research &amp;amp; Education Institute. \nThe lecture first addressed real examples of PTSD patients, and then discussed how to respond in certain situations...",
+  "content"  : "I took the workshop for Evidence-based trauma treament held by Dr. Hye Sun Joo in Korea Trauma Research &amp;amp; Education Institute. \nThe lecture first addressed real examples of PTSD patients, and then discussed how to respond in certain situations with specific exampels. \nSince I’ve never experienced PTSD patients before, this workshop will be helpful for me to work as a counselor at the on-campus counseling center.\n\n"
 } ,
   
   {
@@ -265,6 +315,18 @@
   "date"     : "February 22, 2021",
   "excerpt"  : "I gave a presentation on “Classifying Autism Spectrum Disorder Using the Temporal Statistics of Resting-State Functional MRI Data With 3D Convolutional Neural Networks” by Thomas et al. (2020). The paper tried classifying Autism Spectrum Disorder ...",
   "content"  : "I gave a presentation on “Classifying Autism Spectrum Disorder Using the Temporal Statistics of Resting-State Functional MRI Data With 3D Convolutional Neural Networks” by Thomas et al. (2020). The paper tried classifying Autism Spectrum Disorder (ASD) from healthy control using resting-state fMRI, with 3D Convolutional Neural Network (3D-CNN). Unlike the conventional way of spatial downscaling of fMRI data using brain atlas, the authors tried to reduce the dimensionality of time-domain using multiple summary measures of connectivity! Even though the highest prediction accuracy achieved from multi-measure ensemble approach was not high enough compared to other studies, it was a new perspective of dealing with fMRI data to me!\n\nDate: 22 February, 2021  \nEvent: CCS lab meeting  \nLocation: Seoul, South Korea \nPaper:  Link \nSlides:  Download pdf\n\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "Master&#39;s degree thesis proposal presentation",
+  "category" : "",
+  "tags"     : " presentation, thesis, food addiction, binge eating disorder, obesity",
+  "url"      : "/portfolio/ppt-210423-thesis",
+  "date"     : "April 23, 2021",
+  "excerpt"  : "I gave a thesis proposal presentation for my master’s degree. Using the dataset being collected at 365mc hospital, I proposed a research titled “Identifying shared and unique mechanisms of food addiction and binge eating disorder based on dietary ...",
+  "content"  : "I gave a thesis proposal presentation for my master’s degree. Using the dataset being collected at 365mc hospital, I proposed a research titled “Identifying shared and unique mechanisms of food addiction and binge eating disorder based on dietary restriction and weight concern”. Proposal got approved, and received nice and constructive feedbacks from the committee members.\n\nDate: 23 April, 2021  \nEvent: Seoul National University thesis proposal  \nLocation: Seoul, South Korea \nRequest Slides: kmario4180@snu.ac.kr\n\n"
   
 } 
   
