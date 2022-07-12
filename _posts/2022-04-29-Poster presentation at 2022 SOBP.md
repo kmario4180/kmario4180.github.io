@@ -6,7 +6,7 @@ tags: [conference, poster, presentation, SOBP, ABCD, soda]
 
 I gave a poster presentation at [2022 SOBP](https://sobp.org/2022-sobp-annual-meeting/), titled "Daily Caffeinated Soda Intake in Children is associated With Neurocognitive Vulnerabilities of Substance Misuse and Predicts Greater Alcohol Use in 12 Months." <br/>
 
-Check out the abstract [here](https://www.researchgate.net/publication/361330072_P22_Daily_Caffeinated_Soda_Intake_in_Children_is_asso-_ciated_With_Neurocognitive_Vulnerabilities_of_Substance_Misuse_and_Predicts_Greater_Alcohol_Use_in_12_Months?channel=doi&linkId=62aaf996938bee3e3f37bab4&showFulltext=true)! <br/>
+Check out the abstract [here](https://www.researchgate.net/publication/361330072_P22_Daily_Caffeinated_Soda_Intake_in_Children_is_associated_With_Neurocognitive_Vulnerabilities_of_Substance_Misuse_and_Predicts_Greater_Alcohol_Use_in_12_Months?channel=doi&linkId=62aaf996938bee3e3f37bab4&showFulltext=true)! <br/>
 This project is based on the ABCD study, and you could see more details in the [preprint](https://doi.org/10.1101/2021.02.17.431718). <br/>
 
 <br/>
