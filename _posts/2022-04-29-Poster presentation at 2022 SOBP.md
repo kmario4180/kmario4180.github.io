@@ -16,5 +16,5 @@ I had such a meaningful time introducing my research, dicussing my other project
 
 
 <center>
-<img src="/assets/img/thumbnails/SOBP2022.png" width="300"/> 
-
+<img src="/assets/img/thumbnails/SOBP2022.png" width="600"/> 
+<img src="/assets/img/thumbnails/SOBP2022_2.png" width="600"/> 
