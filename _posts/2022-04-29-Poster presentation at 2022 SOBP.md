@@ -10,8 +10,8 @@ Check out the abstract [here](https://www.researchgate.net/publication/361330072
 This project is based on the ABCD study, and you could see more details in the [preprint](https://doi.org/10.1101/2021.02.17.431718). <br/>
 
 <br/>
-This was my first time attending the in-person conference abroad! <br/>
-I had such a meaningful time introducing my research, dicussing my other projects, interacting with researchers working in various places and learning their works! <br/>
+This was my first time attending an in-person conference abroad! <br/>
+I had such a meaningful time introducing my research and interacting with researchers working in various places, and learning about their works! <br/>
 
 
 

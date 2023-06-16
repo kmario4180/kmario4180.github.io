@@ -4,9 +4,8 @@ title: Won the SNU Graduate Scholarship for Basic Science Research
 tags: [scholarship]
 ---
 
-I won my first scholarship as a graduate student! <br/>
-Due to COVID-19, ceremony wasn't held this year. <br/>
-All, please stay safe & healthy! 
+I have won my first scholarship as a graduate student! <br/>
+Unfortunately, due to COVID-19, the scholarship ceremony was not held this year. <br/>
 
 
 <center>

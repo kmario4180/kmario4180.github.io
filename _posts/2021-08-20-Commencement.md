@@ -4,7 +4,7 @@ title: Commencement :)
 tags: [commencement, graduation, master's degree]
 ---
 
-I received a Master's degree in Clinical Psychology from Seoul National University :) <br/>
+I have successfully received a Master's degree in Clinical Psychology from Seoul National University :) <br/>
 Great thanks to my family!! <br/>
 I'm now starting my Ph.D :) 
 

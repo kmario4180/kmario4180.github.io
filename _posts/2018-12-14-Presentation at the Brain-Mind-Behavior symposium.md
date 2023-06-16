@@ -4,10 +4,11 @@ title: Presentation at the Brain-Mind-Behavior symposium
 tags: [poster, presentation]
 ---
 
-I completed my independent research projects in Fall 2018. <br/>
-Using a large database from the ABCD study, I focused on a relationship between children's caffeinated soda intake and neuro-cognitive deficits. <br/>
-I learned a lot about using python, analyzing data, making poster, preparing presentations, etc.  <br/>
-Plus, I also won a poster award! :-) 
+I successfully completed my independent research projects in Fall 2018. <br/>
+Using a large database from the ABCD study, my research focused on examining the relationship between children's caffeinated soda intake and neuro-cognitive deficits. <br/>
+
+Throughout the process, I gained skills in Python programming, data analysis, poster creation, and presentation presentation.<br/>
+Additionally, I am thrilled to share that I received a poster award for my work! :-) 
 
 <center>
   <img src="/assets/img/thumbnails/BMB2.jpg" width="600"/> 
