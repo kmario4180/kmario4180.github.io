@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presented at a open papar session presentation at 2023 WCCBT
+title: Presented an open paper session presentation at the 2023 WCCBT
 tags: [conference, oral presentation, WCCBT, addiction, internet gaming disorder, alcohol use disorder, fMRI, computational modeling]
 ---
 
