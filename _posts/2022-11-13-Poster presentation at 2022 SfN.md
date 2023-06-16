@@ -11,3 +11,7 @@ Check out the abstract [here](https://www.researchgate.net/publication/371606623
 <br/>
 This was my first time attending SfN in-person! <br/>
 I thoroughly enjoyed sharing my research, engaging in discussions about my other projects (e.g., naturalistc fMRI paradigm, collection voice data in studying psychopathology), interacting with researchers, and gaining insights into their work. It was a truly enriching experience. <br/>
+
+<center>
+<img src="/assets/img/thumbnails/SfN2023.png" width="400"/> 
+ 
