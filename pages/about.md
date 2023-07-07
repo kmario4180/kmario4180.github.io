@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
 
-<img style="float: right;" src="/assets/img/profile2.JPG" width="50%">
+<img style="float: right;" src="/assets/img/profile.jpg" width="50%">
 
 I am a PhD student in the [CCS Lab](https://ccs-lab.github.io/) (September 2021 - Present). I received a Bachelor’s degree in Psychology from Seoul National University with summa cum laude in August 2019, and received a Master's degree in Clinical Psychology from Seoul National University in August 2021. 
 
