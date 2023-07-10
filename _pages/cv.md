@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://kmario4180.github.io/files/CV_minakwon.pdf)
+[Download full CV](https://kmario4180.github.io/files/CV_minakwon.pdf)
 
 Education
 ======
