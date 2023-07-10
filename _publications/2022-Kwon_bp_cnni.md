@@ -16,7 +16,7 @@ A key challenge in understanding mental (dys)functions is their etiological and 
 
 
 __DOI__: [https://doi.org/10.1016/j.bpsc.2022.12.003](https://www.sciencedirect.com/science/article/pii/S245190222200338X?via%3Dihub) <br/>
-__PDF__: [paper_kwon2023_cnni.pdf](http://kmario4180.github.io/files/paper_kwon2023_cnni.pdf)
+__PDF__: [paper_kwon2022_cnni.pdf](http://kmario4180.github.io/files/paper_kwon2022_cnni.pdf)
 
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
