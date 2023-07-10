@@ -7,7 +7,7 @@ permalink: /publication/2023-bp_cnni
 date: 2022-12-17
 venue: 'Biological Psychiatry: Cognitive Neuroscience and Neuroimaging'
 # url: 'https://doi.org/10.1016/j.bpsc.2022.12.003'
-citation: 'Kwon, M., Lee, S., & Ahn, W.-Y. (2023) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, https://doi.org/10.1016/j.bpsc.2022.12.003'
+citation: 'Kwon, M., Lee, S., & Ahn, W.-Y. (2022) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, https://doi.org/10.1016/j.bpsc.2022.12.003'
 ---
 
 ### Abstract
