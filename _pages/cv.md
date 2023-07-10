@@ -22,9 +22,9 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* __Kwon, M.__, Lee, S., & Ahn, W.-Y. (2022) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, [https://doi.org/10.1016/j.bpsc.2022.12.003](https://linkinghub.elsevier.com/retrieve/pii/S245190222200338X).
+* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (revised and resubmitted) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. BioRxiv, 2021.02.17.431718. [https://doi.org/10.1101/2021.02.17.431718](https://doi.org/10.1101/2021.02.17.431718).
+* Kim, H., Hur, J. K., __Kwon, M.__, Kim, S., Zoh, Y., & Ahn, W.-Y (2023) Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain. PLOS ONE, [https://doi.org/10.1371/journal.pone.0286632](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286632).
   
 Talks
 ======
@@ -52,6 +52,10 @@ Teaching
 * __Psychological Science of Addiction__
   * Seoul National University
   * Teaching Assistant (2021.03. ~ 2021.08.)
+
+
+
+
 
   <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
