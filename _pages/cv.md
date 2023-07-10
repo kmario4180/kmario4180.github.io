@@ -34,6 +34,7 @@ Talks
   
 Presentations
 ======
+* Kwon, M., Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W. (2022) Daily Caffeinated Soda Intake in Children is associated With Neurocognitive Vulnerabilities of Substance Misuse and Predicts Greater Alcohol Use in 12 Months, Poster presented at the Annual Meeting of the Society for Neuroscience, New Orleans. DOI: https://doi.org/10.1016/j.biopsych.2022.02.257
 * __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W. (2022) Daily Caffeinated Soda Intake in Children is associated With Neurocognitive Vulnerabilities of Substance Misuse and Predicts Greater Alcohol Use in 12 Months, Poster presented at the Annual Meeting of the Society for Neuroscience, New Orleans. DOI: https://doi.org/10.1016/j.biopsych.2022.02.257
 * __Kwon, M.__, Lee, J., Yang, J., Chang, S., & Ahn, W. (2021) Identifying unique neurocognitive mechanisms of food addiction and binge eating using longitudinal study design and computational modeling, Poster presented at Society for Neuroscience, Chicago. (virtual)
 * __Kwon, M.__, Kim, H., Yang, J., Hur, J., Lee, T., & Ahn, W. (2019) Identifying behavioral and neural predictors of caffeinated soda intake in childhood using a large database from the ABCD study, Poster presented at the Annual Meeting of the Society for Neuroscience, Chicago.
@@ -58,12 +59,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Skills
+<!-- Skills
 ======
 * R, Python, Matlab
 * Neuroimaging
   * spm12
-  * Nilearn
+  * Nilearn -->
 
 <!-- Work experience
 ======
