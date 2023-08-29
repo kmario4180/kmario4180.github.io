@@ -28,9 +28,9 @@ Publications
   
 Talks
 ======
-* __Kwon, M.__, Choi, H., Park, H., Ahn, W.+, Jung Y.+ (2023) Neural correlates of goal-directed control in internet gaming disorder and alcohol use disorder, presented at 8th International Conference on Behavioral Addictions, Incheon, Korea.
-* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse, presented at 2023 Annual Conference of the Korean Psychological Association, Suwon, Korea.
-* __Kwon, M.__, Choi, H., Park, H., Ahn, W.+, Jung Y.+ (2023) Shared and Distinct Neurocognitive Features of Internet Gaming Disorder and Alcohol Use Disorder, presented as Open Paper at 10th World Congress of Cognitive and Behavioral Therapies, Seoul, Korea.
+* __Kwon, M.__, Choi, H., Park, H., Ahn, W.+, Jung Y.+ (2023) Neural correlates of goal-directed control in internet gaming disorder and alcohol use disorder, _presented at 8th International Conference on Behavioral Addictions, Incheon, Korea_.
+* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse, _presented at 2023 Annual Conference of the Korean Psychological Association, Suwon, Korea_.
+* __Kwon, M.__, Choi, H., Park, H., Ahn, W.+, Jung Y.+ (2023) Shared and Distinct Neurocognitive Features of Internet Gaming Disorder and Alcohol Use Disorder, _presented at 10th World Congress of Cognitive and Behavioral Therapies, Seoul, Korea_.
   
 Presentations
 ======
