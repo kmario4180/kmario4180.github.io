@@ -22,9 +22,9 @@ Education
 
 Publications
 ======
-* __Kwon, M.__, Lee, S., & Ahn, W.-Y. (2022) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, [https://doi.org/10.1016/j.bpsc.2022.12.003](https://linkinghub.elsevier.com/retrieve/pii/S245190222200338X).
-* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (revised and resubmitted) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. BioRxiv, 2021.02.17.431718. [https://doi.org/10.1101/2021.02.17.431718](https://doi.org/10.1101/2021.02.17.431718).
-* Kim, H., Hur, J. K., __Kwon, M.__, Kim, S., Zoh, Y., & Ahn, W.-Y (2023) Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain. PLOS ONE, [https://doi.org/10.1371/journal.pone.0286632](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286632).
+* __Kwon, M.__, Lee, S., & Ahn, W.-Y. (2022) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_, [https://doi.org/10.1016/j.bpsc.2022.12.003](https://linkinghub.elsevier.com/retrieve/pii/S245190222200338X).
+* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (revised and resubmitted) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _BioRxiv_, 2021.02.17.431718. [https://doi.org/10.1101/2021.02.17.431718](https://doi.org/10.1101/2021.02.17.431718).
+* Kim, H., Hur, J. K., __Kwon, M.__, Kim, S., Zoh, Y., & Ahn, W.-Y (2023) Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain. _PLOS ONE_, [https://doi.org/10.1371/journal.pone.0286632](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286632).
   
 Talks
 ======
@@ -34,10 +34,10 @@ Talks
   
 Presentations
 ======
-* __Kwon, M__., Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W. (2022) Neuroforecasting exceeds self- reports in predicting cosmetic sales: an fMRI study, Poster presented at the Annual Meeting of the Society for Neuroscience, San Diego.
-* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W. (2022) Daily Caffeinated Soda Intake in Children is associated With Neurocognitive Vulnerabilities of Substance Misuse and Predicts Greater Alcohol Use in 12 Months, Poster presented at the Annual Meeting of the Society for Neuroscience, New Orleans. DOI: [https://doi.org/10.1016/j.biopsych.2022.02.257](https://doi.org/10.1016/j.biopsych.2022.02.257)
-* __Kwon, M.__, Lee, J., Yang, J., Chang, S., & Ahn, W. (2021) Identifying unique neurocognitive mechanisms of food addiction and binge eating using longitudinal study design and computational modeling, Poster presented at Society for Neuroscience, Chicago. (virtual)
-* __Kwon, M.__, Kim, H., Yang, J., Hur, J., Lee, T., & Ahn, W. (2019) Identifying behavioral and neural predictors of caffeinated soda intake in childhood using a large database from the ABCD study, Poster presented at the Annual Meeting of the Society for Neuroscience, Chicago.
+* __Kwon, M__., Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W. (2022) Neuroforecasting exceeds self- reports in predicting cosmetic sales: an fMRI study, _Poster presented at the Annual Meeting of the Society for Neuroscience, San Diego_.
+* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W. (2022) Daily Caffeinated Soda Intake in Children is associated With Neurocognitive Vulnerabilities of Substance Misuse and Predicts Greater Alcohol Use in 12 Months, _Poster presented at the Annual Meeting of the Society for Neuroscience, New Orleans_, DOI: [https://doi.org/10.1016/j.biopsych.2022.02.257](https://doi.org/10.1016/j.biopsych.2022.02.257)
+* __Kwon, M.__, Lee, J., Yang, J., Chang, S., & Ahn, W. (2021) Identifying unique neurocognitive mechanisms of food addiction and binge eating using longitudinal study design and computational modeling, _Poster presented at Society for Neuroscience, Chicago (virtual)_.
+* __Kwon, M.__, Kim, H., Yang, J., Hur, J., Lee, T., & Ahn, W. (2019) Identifying behavioral and neural predictors of caffeinated soda intake in childhood using a large database from the ABCD study, _Poster presented at the Annual Meeting of the Society for Neuroscience, Chicago_.
 
 
 Teaching
