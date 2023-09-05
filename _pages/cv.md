@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Clinical Psychology, Seoul National University (2021 ~ current)
+* Ph.D. in Clinical Psychology, Seoul National University (2021 ~ current)
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/)
 * M.S. in Clinical Psychology, Seoul National University (2019 ~ 2021)
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/)
@@ -39,21 +39,21 @@ Presentations
 * __Kwon, M.__, Lee, J., Yang, J., Chang, S., & Ahn, W. (2021) Identifying unique neurocognitive mechanisms of food addiction and binge eating using longitudinal study design and computational modeling, _Poster presented at Society for Neuroscience, Chicago (virtual)_.
 * __Kwon, M.__, Kim, H., Yang, J., Hur, J., Lee, T., & Ahn, W. (2019) Identifying behavioral and neural predictors of caffeinated soda intake in childhood using a large database from the ABCD study, _Poster presented at the Annual Meeting of the Society for Neuroscience, Chicago_.
 
-
-Teaching
-======
-* __Advanced data analysis for brain and cognitive sciences: Data collection and statistical analysis for functional MRI__
-  * Seoul National University
-  * Teaching Assistant (2022.09. ~ 2022.12.)
-* __Reinforcement Learning using the hBayesDM Package__
-  * Computational Psychiatry Course Zurich
-  * Teaching Assistant (2021.09.)
-* __Seminar in Experimental Psychology: Computational Modeling__
-  * Seoul National University
-  * Teaching Assistant (2021.03. ~ 2021.08.)
-* __Psychological Science of Addiction__
-  * Seoul National University
-  * Teaching Assistant (2021.03. ~ 2021.08.)
+<!---->
+<!--Teaching-->
+<!--======-->
+<!--* __Advanced data analysis for brain and cognitive sciences: Data collection and statistical analysis for functional MRI__-->
+<!--  * Seoul National University-->
+<!--  * Teaching Assistant (2022.09. ~ 2022.12.)-->
+<!--* __Reinforcement Learning using the hBayesDM Package__-->
+<!--  * Computational Psychiatry Course Zurich-->
+<!--  * Teaching Assistant (2021.09.)-->
+<!--* __Seminar in Experimental Psychology: Computational Modeling__-->
+<!--  * Seoul National University-->
+<!--  * Teaching Assistant (2021.03. ~ 2021.08.)-->
+<!--* __Psychological Science of Addiction__-->
+<!--  * Seoul National University-->
+<!--  * Teaching Assistant (2021.03. ~ 2021.08.)-->
 
 
 
