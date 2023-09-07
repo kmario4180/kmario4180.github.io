@@ -39,6 +39,16 @@ Presentations
 * __Kwon, M.__, Lee, J., Yang, J., Chang, S., & Ahn, W. (2021) Identifying unique neurocognitive mechanisms of food addiction and binge eating using longitudinal study design and computational modeling, _Poster presented at Society for Neuroscience, Chicago (virtual)_.
 * __Kwon, M.__, Kim, H., Yang, J., Hur, J., Lee, T., & Ahn, W. (2019) Identifying behavioral and neural predictors of caffeinated soda intake in childhood using a large database from the ABCD study, _Poster presented at the Annual Meeting of the Society for Neuroscience, Chicago_.
 
+Grants & Awards
+======
+* Basic Science Research Program (*2023.09. ~ 2025.08.*)
+    * National Research Foundation of Korea (NRF)
+* Excellence Award in Doctoral Colloquium
+    * 2023 Annual Conference of the Korean Psychological Association
+* SNU Graduate Scholarship for Basic Science Research (*2020.03. ~ 2021.02.*)
+    * Seoul National University    
+
+
 <!---->
 <!--Teaching-->
 <!--======-->
