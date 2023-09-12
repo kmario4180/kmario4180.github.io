@@ -22,8 +22,8 @@ Education
 
 Publications
 ======
+* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (i press) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_,  [https://doi.org/10.1101/2021.02.17.431718](https://doi.org/10.1101/2021.02.17.431718).
 * __Kwon, M.__, Lee, S., & Ahn, W.-Y. (2022) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_, [https://doi.org/10.1016/j.bpsc.2022.12.003](https://linkinghub.elsevier.com/retrieve/pii/S245190222200338X).
-* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (revised and resubmitted) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _BioRxiv_, 2021.02.17.431718. [https://doi.org/10.1101/2021.02.17.431718](https://doi.org/10.1101/2021.02.17.431718).
 * Kim, H., Hur, J. K., __Kwon, M.__, Kim, S., Zoh, Y., & Ahn, W.-Y (2023) Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain. _PLOS ONE_, [https://doi.org/10.1371/journal.pone.0286632](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286632).
   
 Talks
