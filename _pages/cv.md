@@ -43,7 +43,7 @@ Grants & Awards
 ======
 * Basic Science Research Program (*2023.09. ~ 2025.08.*)
     * National Research Foundation of Korea (NRF)
-* Excellence Award in Doctoral Colloquium
+* Excellence Award in Doctoral Colloquium (*2023.08.*)
     * 2023 Annual Conference of the Korean Psychological Association
 * SNU Graduate Scholarship for Basic Science Research (*2020.03. ~ 2021.02.*)
     * Seoul National University    
