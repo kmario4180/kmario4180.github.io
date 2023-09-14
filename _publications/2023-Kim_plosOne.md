@@ -2,10 +2,8 @@
 title: "Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain"
 collection: publications
 permalink: /publication/2023-Kim_plosOne
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-06-02
 venue: 'PLOS ONE'
-# paperurl: 'https://doi.org/10.1016/j.bpsc.2022.12.003'
 citation: 'Kim, H., Hur, J. K., Kwon, M., Kim, S., Zoh, Y., & Ahn, W.-Y (2023) Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain. PLOS ONE, https://doi.org/10.1371/journal.pone.0286632'
 ---
 
@@ -17,6 +15,6 @@ Previous literature suggests that a balance between Pavlovian and instrumental d
 
 
 <!-- __DOI__: [10.1371/journal.pone.0286632](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286632) <br/> -->
-__PDF__: [paper_kim2022_plosOne.pdf](http://kmario4180.github.io/files/paper_kim2022_plosOne.pdf)
+__PDF__: [paper_kim2023_plosOne.pdf](http://kmario4180.github.io/files/paper_kim2023_plosOne.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->

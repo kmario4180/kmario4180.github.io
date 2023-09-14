@@ -1,12 +1,9 @@
 ---
 title: "Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse"
 collection: publications
-# permalink: /publication/2023-bp_cnni
-permanlink: 'https://doi.org/10.1101/2021.02.17.431718'
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-01-20
+permalink: /publication/2023-Kwon_SUM
+date: 2023-09-30
 venue: 'Substance Use and Misuse'
-# paperurl: 'https://doi.org/10.1016/j.bpsc.2022.12.003'
 citation: 'Kwon, M., Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (in press) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. Substance Use and Misuse, https://doi.org/10.1101/2021.02.17.431718'
 ---
 __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (revised and resubmitted) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_, [https://doi.org/10.1101/2021.02.17.431718](http://kmario4180.github.io/files/paper_kwon2023_soda.pdf)
