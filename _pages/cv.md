@@ -14,9 +14,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in Clinical Psychology, Seoul National University (2021 ~ current)
-  * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/)
+  * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)  
 * M.S. in Clinical Psychology, Seoul National University (2019 ~ 2021)
-  * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/)
+  * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)
 * B.S. in Psychology, Seoul National University (2015 ~ 2019)
   * Minor: Brain-Mind-Behavior
 
