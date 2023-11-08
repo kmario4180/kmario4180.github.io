@@ -23,7 +23,7 @@ Education
 Publications
 ======
 * __Kwon, M.__+, Choi, H.+, Park, H., Ahn, W., Jung Y. (preprint) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder, _bioRxiv_, [https://doi.org/10.1101/2023.09.12.557482](https://doi.org/10.1101/2023.09.12.557482).
-* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (in press) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_,  [https://doi.org/10.1080/10826084.2023.2259471](https://doi.org/10.1080/10826084.2023.2259471).
+* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_,  [https://doi.org/10.1080/10826084.2023.2259471](https://doi.org/10.1080/10826084.2023.2259471).
 * __Kwon, M.__, Lee, S., & Ahn, W.-Y. (2022) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_, [https://doi.org/10.1016/j.bpsc.2022.12.003](https://linkinghub.elsevier.com/retrieve/pii/S245190222200338X).
 * Kim, H., Hur, J. K., __Kwon, M.__, Kim, S., Zoh, Y., & Ahn, W.-Y (2023) Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain. _PLOS ONE_, [https://doi.org/10.1371/journal.pone.0286632](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286632).
   
