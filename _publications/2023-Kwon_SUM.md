@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2023-Kwon_SUM
 date: 2023-09-30
 venue: 'Substance Use and Misuse'
-citation: 'Kwon, M., Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (in press) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. Substance Use and Misuse, https://doi.org/10.1101/2021.02.17.431718'
+citation: 'Kwon, M., Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (in press) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. Substance Use and Misuse, https://doi.org/10.1080/10826084.2023.2259471'
 ---
-__Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (revised and resubmitted) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_, [https://doi.org/10.1101/2021.02.17.431718](https://doi.org/10.1101/2021.02.17.431718)
+__Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (revised and resubmitted) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_, [https://doi.org/10.1080/10826084.2023.2259471](https://doi.org/10.1080/10826084.2023.2259471)
 
 ## Abstract
 
@@ -19,7 +19,7 @@ __Results__ Daily consumption of caffeinated soda was cross-sectionally associat
 __Conclusions__ These findings suggest that previous linkages between caffeine and substance use in adolescence also extend to younger initiation, and may stem from core neurocognitive features thought conducive to substance initiation.
 
 
-<!-- __DOI__: [https://doi.org/10.1016/j.bpsc.2022.12.003](https://www.biorxiv.org/content/10.1101/2021.02.17.431718v4) <br/> -->
+<!-- __DOI__: [https://doi.org/10.1080/10826084.2023.2259471) <br/> -->
 __PDF__: [paper_kwon2023_SUM.pdf](http://kmario4180.github.io/files/paper_kwon2023_SUM.pdf)
 
 
