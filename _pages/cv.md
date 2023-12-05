@@ -36,7 +36,7 @@ Talks
   
 Presentations
 ======
-* __Kwon, M__., Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W.-Y. (2022) Neuroforecasting exceeds self- reports in predicting cosmetic sales: an fMRI study, _Poster presented at the annual meeting of the Society for Neuroscience, San Diego_
+* __Kwon, M.__, Lee, Y., Lee, J.-H., Im, J.J., Rho, E., Jo, Y., Ahn, W.-Y. (2022) Neuroforecasting exceeds self- reports in predicting cosmetic sales: an fMRI study, _Poster presented at the annual meeting of the Society for Neuroscience, San Diego_
 * __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T., & Ahn, W.-Y. (2022) Daily Caffeinated Soda Intake in Children is associated With Neurocognitive Vulnerabilities of Substance Misuse and Predicts Greater Alcohol Use in 12 Months, _Poster presented at the annual meeting of the Society for Neuroscience, New Orleans_, DOI: [https://doi.org/10.1016/j.biopsych.2022.02.257](https://doi.org/10.1016/j.biopsych.2022.02.257)
 * __Kwon, M.__, Lee, J., Yang, J., Chang, S., & Ahn, W.-Y. (2021) Identifying unique neurocognitive mechanisms of food addiction and binge eating using longitudinal study design and computational modeling, _Poster presented at Society for Neuroscience, Chicago (virtual)_
 * __Kwon, M.__, Kim, H., Yang, J., Hur, J., Lee, T., & Ahn, W.-Y. (2019) Identifying behavioral and neural predictors of caffeinated soda intake in childhood using a large database from the ABCD study, _Poster presented at the annual meeting of the Society for Neuroscience, Chicago_
