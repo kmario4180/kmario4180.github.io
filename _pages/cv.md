@@ -31,7 +31,7 @@ Publications
   
 Talks
 ======
-* __Kwon, M.__, Lee, J.-H., Kim, H., Lee, E., Im, J.J., Doh, H., Yang, J., Pitt, M.A., Myung, J.I., Park, H., Joh, H., & Ahn, W.-Y. (2023) Multi-model prediction of successful smoking cessation: Insights from neural, computational, and ecological momentary assessments data, _presented at the annual meeting of the Society for Neuroscience, Washington, D.C._
+* __Kwon, M.__, Lee, J.-H., Kim, H., Lee, E., Im, J.J., Doh, H., Yang, J., Pitt, M.A., Myung, J.I., Park, H., Joh, H., & Ahn, W.-Y. (2023) Multi-modal prediction of successful smoking cessation: Insights from neural, computational, and ecological momentary assessments data, _presented at the annual meeting of the Society for Neuroscience, Washington, D.C._
 * __Kwon, M.__, Choi, H., Park, H., Ahn, W.-Y.+, Jung Y.+ (2023) Neural correlates of goal-directed control in internet gaming disorder and alcohol use disorder, _presented at 8th International Conference on Behavioral Addictions, Incheon, Korea_
 * __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse, _presented at 2023 annual conference of the Korean Psychological Association, Suwon, Korea_
 * __Kwon, M.__, Choi, H., Park, H., Ahn, W.-Y.+, Jung Y.+ (2023) Shared and Distinct Neurocognitive Features of Internet Gaming Disorder and Alcohol Use Disorder, _presented at 10th World Congress of Cognitive and Behavioral Therapies, Seoul, Korea_
