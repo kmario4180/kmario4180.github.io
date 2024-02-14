@@ -3,10 +3,10 @@ title: "Neural correlates of model-based behavior in internet gaming disorder an
 collection: publications
 permalink: /publication/2023-Kwon_IGD
 date: 2023-09-14
-venue: 'bioRxiv'
-citation: 'Kwon, M., Choi, H.-N., Park, H., Ahn, W.-Y., Jung Y.-C. (preprint) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder. bioRxiv, https://doi.org/10.1101/2023.09.12.557482'
+venue: 'Journal of Behavioral Addictions'
+citation: 'Kwon, M., Choi, H.-N., Park, H., Ahn, W.-Y., Jung Y.-C. (In press) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder. Journal of Behavioral Addictions, https://doi.org/10.1101/2023.09.12.557482'
 ---
-__Kwon, M.__+, Choi, H.-N.+, Park, H., Ahn, W.-Y., Jung Y.-C. (preprint) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder. _bioRxiv_, [https://doi.org/10.1101/2023.09.12.557482](https://doi.org/10.1101/2023.09.12.557482)
+__Kwon, M.__+, Choi, H.-N.+, Park, H., Ahn, W.-Y., Jung Y.-C. (In press) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder. _Journal of Behavioral Addictions_, [https://doi.org/10.1101/2023.09.12.557482](https://doi.org/10.1101/2023.09.12.557482)
 
 ## Abstract
 
