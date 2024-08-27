@@ -86,7 +86,7 @@ author:
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3TgU5EcAAAAJ&hl=en"
   email            : "kmario4180@snu.ac.kr"
   researchgate     :  "https://www.researchgate.net/profile/Mina-Kwon-2"
   uri              :

@@ -13,6 +13,8 @@ redirect_from:
 
 Education
 ======
+* Visiting Ph.D. Student, University of Chicago (2024.01. ~ current)
+  * Advisor: [Monica Rosenberg](https://cablab.uchicago.edu/)
 * Ph.D. in Clinical Psychology, Seoul National University (2021 ~ current)
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)  
 * M.S. in Clinical Psychology, Seoul National University (2019 ~ 2021)
@@ -22,14 +24,14 @@ Education
 
 Publications
 ======
-* __Kwon, M.__+, Choi, H.+, Park, H., Ahn, W.-Y., Jung Y. (preprint) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder, _bioRxiv_, [https://doi.org/10.1101/2023.09.12.557482](https://doi.org/10.1101/2023.09.12.557482).
+* __Kwon, M.__+, Choi, H.+, Park, H., Ahn, W.-Y., Jung Y. (2024) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder, _Journal of Behavioral Addictions_, [https://doi.org/10.1556/2006.2024.00006](https://doi.org/10.1556/2006.2024.00006).
 * __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J.K., Lee, T.-H., Bjork, J.M., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_,  [https://doi.org/10.1080/10826084.2023.2259471](https://doi.org/10.1080/10826084.2023.2259471).
 * __Kwon, M.__, Lee, S., & Ahn, W.-Y. (2022) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_, [https://doi.org/10.1016/j.bpsc.2022.12.003](https://linkinghub.elsevier.com/retrieve/pii/S245190222200338X).
 * Kim, H., Hur, J. K., __Kwon, M.__, Kim, S., Zoh, Y., & Ahn, W.-Y (2023) Causal role of the dorsolateral prefrontal cortex in modulating the balance between Pavlovian and instrumental systems in the punishment domain. _PLOS ONE_, [https://doi.org/10.1371/journal.pone.0286632](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286632).
   
 Talks
 ======
-* __Kwon, M.__, Lee, J.-H., Kim, H., Lee, E., Im, J.J., Doh, H., Yang, J., Pitt, M.A., Myung, J.I., Park, H., Joh, H., & Ahn, W.-Y. (2023) Multi-model prediction of successful smoking cessation: Insights from neural, computational, and ecological momentary assessments data, _presented at the annual meeting of the Society for Neuroscience, Washington, D.C._
+* __Kwon, M.__, Lee, J.-H., Kim, H., Lee, E., Im, J.J., Doh, H., Yang, J., Pitt, M.A., Myung, J.I., Park, H., Joh, H., & Ahn, W.-Y. (2023) Multi-modal prediction of successful smoking cessation: Insights from neural, computational, and ecological momentary assessments data, _presented at the annual meeting of the Society for Neuroscience, Washington, D.C._
 * __Kwon, M.__, Choi, H., Park, H., Ahn, W.-Y.+, Jung Y.+ (2023) Neural correlates of goal-directed control in internet gaming disorder and alcohol use disorder, _presented at 8th International Conference on Behavioral Addictions, Incheon, Korea_
 * __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse, _presented at 2023 annual conference of the Korean Psychological Association, Suwon, Korea_
 * __Kwon, M.__, Choi, H., Park, H., Ahn, W.-Y.+, Jung Y.+ (2023) Shared and Distinct Neurocognitive Features of Internet Gaming Disorder and Alcohol Use Disorder, _presented at 10th World Congress of Cognitive and Behavioral Therapies, Seoul, Korea_
