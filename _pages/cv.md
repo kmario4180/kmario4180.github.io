@@ -13,10 +13,10 @@ redirect_from:
 
 Education
 ======
-* Visiting Ph.D. Student, University of Chicago (2024.01. ~ current)
-  * Advisor: [Monica Rosenberg](https://cablab.uchicago.edu/)
 * Ph.D. in Clinical Psychology, Seoul National University (2021 ~ current)
-  * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)  
+  * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)
+* Visiting Ph.D. Student, University of Chicago (2024.01. ~ 2024.06.)
+  * Advisor: [Monica Rosenberg](https://cablab.uchicago.edu/)
 * M.S. in Clinical Psychology, Seoul National University (2019 ~ 2021)
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)
 * B.S. in Psychology, Seoul National University (2015 ~ 2019)
