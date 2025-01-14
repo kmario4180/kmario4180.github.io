@@ -13,14 +13,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Clinical Psychology, Seoul National University (2021 ~ current)
+* Ph.D. in Clinical Psychology, Seoul National University (2021.09. ~ current)
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)
 * Visiting Ph.D. Student, University of Chicago (2024.01. ~ 2024.06.)
   * Advisor: [Monica Rosenberg](https://cablab.uchicago.edu/)
-* M.S. in Clinical Psychology, Seoul National University (2019 ~ 2021)
+* M.S. in Clinical Psychology, Seoul National University (2019.09. ~ 2021.08.)
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)
-* B.S. in Psychology, Seoul National University (2015 ~ 2019)
+* B.S. in Psychology, Seoul National University (2015.03. ~ 2019.08.)
   * Minor: Brain-Mind-Behavior
+  
+Experience
+======
+* Department of Psychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
+  * Researcher
 
 Publications
 ======
