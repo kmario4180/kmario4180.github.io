@@ -24,8 +24,7 @@ Education
   
 Experience
 ======
-* Department of Psychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
-  * Researcher
+* Reesearcher at the Department of Psychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
 
 Publications
 ======
