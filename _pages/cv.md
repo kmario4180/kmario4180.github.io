@@ -22,9 +22,9 @@ Education
 * B.S. in Psychology, Seoul National University (2015.03. ~ 2019.08.)
   * Minor: Brain-Mind-Behavior
   
-Experience
+Employment
 ======
-* Reesearcher at the Department of Psychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
+* Researcher at the Department of Psychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
 
 Publications
 ======
@@ -50,7 +50,7 @@ Poster Presentations
 
 Grants & Awards
 ======
-* Basic Science Research Program (*2023.09. ~ 2025.08.*)
+* Basic Science Research Program (*2023.09. ~ 2025.02.*)
     * National Research Foundation of Korea (NRF)
 * Excellence Award in Doctoral Colloquium (*2023.08.*)
     * 2023 annual conference of the Korean Psychological Association
