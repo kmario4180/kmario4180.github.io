@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Clinical Psychology, Seoul National University (2021.09. ~ current)
+* Ph.D. in Clinical Psychology, Seoul National University (2021.09. ~ 2025.02.)
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)
 * Visiting Ph.D. Student, University of Chicago (2024.01. ~ 2024.06.)
   * Advisor: [Monica Rosenberg](https://cablab.uchicago.edu/)
@@ -38,7 +38,7 @@ Talks
 * __Kwon, M.__, Song, S., Lee, H., Kwon, M., Choi, J.-S., Jung, Y.-C., Rosenberg, D. M., & Ahn, W.-Y. (2024) Interplay between reward and self-referential processing in alcohol craving during naturalistic movie watching, _presented at the annual meeting of the Society for Neuroscience, Chicago_.
 * __Kwon, M.__, Lee, J.-H., Kim, H., Lee, E., Im, J.J., Doh, H., Yang, J., Pitt, M.A., Myung, J.I., Park, H., Joh, H., & Ahn, W.-Y. (2023) Multi-modal prediction of successful smoking cessation: Insights from neural, computational, and ecological momentary assessments data, _presented at the annual meeting of the Society for Neuroscience, Washington, D.C._
 * __Kwon, M.__, Choi, H., Park, H., Ahn, W.-Y.+, Jung Y.+ (2023) Neural correlates of goal-directed control in internet gaming disorder and alcohol use disorder, _presented at 8th International Conference on Behavioral Addictions, Incheon, Korea_
-* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., Bjork, J.M., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse, _presented at 2023 annual conference of the Korean Psychological Association, Suwon, Korea_
+* __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J., Lee, T.-H., Bjork, J.M., & Ahn, W.-Y. (2023) Caffeinated soda intake in children is associated with neurobehavioral risk factors for ㅈsubstance misuse, _presented at 2023 annual conference of the Korean Psychological Association, Suwon, Korea_
 * __Kwon, M.__, Choi, H., Park, H., Ahn, W.-Y.+, Jung Y.+ (2023) Shared and Distinct Neurocognitive Features of Internet Gaming Disorder and Alcohol Use Disorder, _presented at 10th World Congress of Cognitive and Behavioral Therapies, Seoul, Korea_
   
 Poster Presentations
