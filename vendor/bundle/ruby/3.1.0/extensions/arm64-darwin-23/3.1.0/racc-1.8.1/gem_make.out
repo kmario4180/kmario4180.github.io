@@ -1,0 +1,15 @@
+current directory: /Users/minakwon/github_repo/minakwon.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/minakwon/.rbenv/versions/3.1.0/bin/ruby -I /Users/minakwon/.rbenv/versions/3.1.0/lib/ruby/3.1.0 -r ./siteconf20250325-73769-5d3xtu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/minakwon/github_repo/minakwon.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /Users/minakwon/github_repo/minakwon.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/minakwon/github_repo/minakwon.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250325-73769-55t0au/racc
