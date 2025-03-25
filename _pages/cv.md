@@ -24,7 +24,7 @@ Education
   
 Employment
 ======
-* Researcher at the Department of Psychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
+* Researcher at the Department of Neuropsychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
 
 Publications
 ======
