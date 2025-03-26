@@ -21,7 +21,7 @@ Discussion and Conclusions: The findings suggest potential differences in the ne
 
 
 <!-- __DOI__: [https://doi.org/10.1101/2023.09.12.557482](https://doi.org/10.1101/2023.09.12.557482) <br/> -->
-__PDF__: [paper_kwon2024_IGD.pdf](http://kmario4180.github.io/files/paper_kwon2024_IGD.pdf)
+__PDF__: [paper_kwon2024_JBA.pdf](http://kmario4180.github.io/files/paper_kwon2024_JBA.pdf)
 
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
