@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-Kwon_IGD_JBA
 date: 2024-05-14
 venue: 'Journal of Behavioral Addictions'
-citation: 'Kwon, M., Choi, H.-N., Park, H., Ahn, W.-Y., Jung Y.-C. (2024) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder. Journal of Behavioral Addictions, https://doi.org/10.1556/2006.2024.00006'
+citation: 
 ---
 __Kwon, M.__+, Choi, H.-N.+, Park, H., Ahn, W.-Y., Jung Y.-C. (2024) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder. _Journal of Behavioral Addictions_, [https://doi.org/10.1556/2006.2024.00006](https://doi.org/10.1556/2006.2024.00006)
 
