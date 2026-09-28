@@ -32,6 +32,8 @@ Employment
 
 Publications
 ======
+* __Kwon, M.__, Song, S., Lee, H., Kwon, M., Choi, J.-S., Jung, Y.-C., Rosenberg., M. D., Ahn, W.-Y. (In Review) Drinking Motives Synchronize Behavioral and Neural Craving Responses to Alcohol-drinking Videos, https://doi.org/10.64898/2026.07.05.736452[https://doi.org/10.64898/2026.07.05.736452].
+* Lee, H., Kwon, M., Lee J., __Kwon, M.__, Song, S., Lee, D., Choi, J.-S., Jung, Y.-C., Ahn, W.-Y. (In Review) Daily fluctuations in delay discounting and smartphone-based multimodal measures track nighttime drinking in alcohol use disorder: A 28-day monitoring study, 10.31234/osf.io/he7rn_v1[10.31234/osf.io/he7rn_v1].
 * __Kwon, M.__+, Song, J. Y.+, Hwang, J. Y., Seong, S.J., Park, K. J., Jo, Y. T., Kim, Y. J., Ahn, M. E., Lee, S.-K. (2026) Personalizing ecological momentary intervention for substance use disorders through data-driven decision rules, Frontiers in Psychiatry, [https://doi.org/10.3389/fpsyt.2026.1717544](https://doi.org/10.3389/fpsyt.2026.1717544).
 * __Kwon, M.__+, Choi, H.+, Park, H., Ahn, W.-Y., Jung Y. (2024) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder, _Journal of Behavioral Addictions_, [https://doi.org/10.1556/2006.2024.00006](https://doi.org/10.1556/2006.2024.00006).
 * __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J.K., Lee, T.-H., Bjork, J.M., & Ahn, W.-Y. (2024) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_,  [https://doi.org/10.1080/10826084.2023.2259471](https://doi.org/10.1080/10826084.2023.2259471).
